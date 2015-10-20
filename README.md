@@ -9,6 +9,6 @@ Electricity, Water
 Tunnels
 ![alt tag](https://raw.github.com/Ketchu13/Prison-Architect_Manager/master/Screens/2015-10-19 21.48.10.png)
 Params
-![alt tag](https://raw.github.com/Ketchu13/Prison-Architect_Manager/master/Screens/2015-10-20 00.59.21.png)
+![alt tag](https://raw.github.com/Ketchu13/Prison-Architect_Manager/master/Screens/2015-10-20 23.30.30.png)
 
 More soon...
